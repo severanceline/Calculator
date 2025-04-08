@@ -77,7 +77,7 @@
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button3.Font = new System.Drawing.Font("Microsoft Tai Le", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.Color.Gainsboro;
-            this.button3.Location = new System.Drawing.Point(153, 85);
+            this.button3.Location = new System.Drawing.Point(153, 102);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(77, 55);
             this.button3.TabIndex = 3;
